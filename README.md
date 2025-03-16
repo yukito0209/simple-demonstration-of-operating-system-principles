@@ -1,4 +1,4 @@
-# 🖥️ OS-Principles-Demo | 操作系统原理演示系统
+# 🖥️ OS-Principles-Demo | 操作系统原理演示
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
