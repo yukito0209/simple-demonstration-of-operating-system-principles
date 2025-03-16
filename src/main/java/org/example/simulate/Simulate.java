@@ -19,7 +19,7 @@ public class Simulate {
     public static Vector<PCB> runProcess = new Vector<>();  // 运行进程
     public static Vector<PCB> blockQueue = new Vector<>();  // 阻塞队列
     public static int timeSlice = 0;                        // 时间片
-    public static int finishNum = 0;                        // 已完成进程数
+    public static int finishNum = 0;                        // 已完成进程数量
     public static Vector<String> messager = new Vector<>(); // 提示信息
     public static void main(String[] args) {
         boolean isInit = false;
